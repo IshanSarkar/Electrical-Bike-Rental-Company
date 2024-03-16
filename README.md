@@ -1,4 +1,4 @@
-![image](https://github.com/IshanSarkar/Electrical-Bike-Rental-Company/assets/160044904/e784613b-32e8-4853-9783-f6d2d033773f)![image](https://github.com/IshanSarkar/Electrical-Bike-Rental-Company/assets/160044904/453bf80c-dbbb-43b5-aca0-3f34b9ccd11c)# Data Analysis of Electrical-Bike-Rental-Company
+# Data Analysis of Electrical-Bike-Rental-Company
 - Language: Python
 - Libraries: numPy, pandas, matplotlib, seaborn, scipy.stats (ttest_ind, f_oneway, shapiro, levene, kruskal, chi2_contingency, pearsonr, spearmanr), statsmodels.graphics.gofplots - qqplot
 
